@@ -1,8 +1,5 @@
 /*
-Covid 19 Data Exploration 
-
-Skills used: CASE Statements, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
+Covid 19 Data Exploration SLQ queries
 */
 
 -- RENAMING TABLES
